@@ -1,6 +1,6 @@
 # Gauge-Equivariant Graph Networks via Self-Interference Cancellation
 
-<img width="1824" height="349" alt="Image" src="https://github.com/user-attachments/assets/3102ad8a-95af-45d7-a5a6-43e520d3a15e" />
+<img width="1824" height="549" alt="Image" src="https://github.com/user-attachments/assets/3102ad8a-95af-45d7-a5a6-43e520d3a15e" />
 
 
 ## Overview
